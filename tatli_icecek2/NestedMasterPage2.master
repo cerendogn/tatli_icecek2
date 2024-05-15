@@ -1,0 +1,4 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Kullanıcı.Master" AutoEventWireup="true" CodeBehind="NestedMasterPage2.master.cs" Inherits="tatli_icecek2.NestedMasterPage2" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+
